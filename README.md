@@ -1,16 +1,19 @@
 # Embodied-World-Models
+A curated list of awesome embodied world models resources.
 
+Please feel free to send me [pull requests](https://github.com/rainbow979/Awesome-Embodied-World-Models/pulls) or email (szhoubr@connect.ust.hk / elegyhunter@gmail.com) to add links or talk about embodied world models.
 
 ## Contents
 
 - [General](#general)
 - [Planning](#planning)
-- [Generate Data](#generate-data)
-- [Evaluation Policy](#evaluation-policy)
+- [Data Generation](#data-generation)
+- [Policy Evaluation](#policy-evaluation)
 - [Benchmark](#benchmark)
 - [AR-WM](#AR-WM)
 - [Adaptation](#adaptation)
 - [Other](#other)
+- [Awesome Video Models](#awesome-video-models)
 
 
 ## General
@@ -66,3 +69,9 @@ Evaluating physical commonsense for video generation** [paper](https://arxiv.org
 #### Latent Action
 1. **AdaWorld: Learning Adaptable World Models with Latent Actions** [paper](https://arxiv.org/abs/2503.18938)
 2. **Genie: Generative Interactive Environments** [paper](https://arxiv.org/abs/2402.15391)
+
+
+## Awesome Video Models
+1. **Wan2.1** [code](https://github.com/Wan-Video/Wan2.1)
+2. **CogvideoX** [code](https://github.com/THUDM/CogVideo)
+3. **Hunyuan** [code](https://github.com/Tencent-Hunyuan/HunyuanVideo)
