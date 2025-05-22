@@ -25,12 +25,11 @@ Please feel free to send me [pull requests](https://github.com/rainbow979/Awesom
 2. **Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets** [paper](https://arxiv.org/abs/2504.02792)
 3. **TesserAct: Learning 4D Embodied World Models** [paper](https://arxiv.org/abs/2504.20995)
 4. **Prediction with Action: Visual Policy Learning via Joint Denoising Process** [paper](https://arxiv.org/abs/2411.18179)
-5. **Unified Video Action Model** [paper](https://arxiv.org/abs/2503.00200)
-6. **EVA: An Embodied World Model for Future Video Anticipation** [paper](https://arxiv.org/abs/2410.15461)
-7. **Video language planning** [paper](https://arxiv.org/abs/2310.10625)
-8. **RoboDreamer: Learning Compositional World Models for Robot Imagination** [paper](https://arxiv.org/abs/2404.12377)
-9. **Learning to Act from Actionless Videos through Dense Correspondences** [paper](https://arxiv.org/abs/2310.08576)
-10. **Learning Universal Policies via Text-Guided Video Generation** [paper](https://arxiv.org/abs/2302.00111)
+5. **EVA: An Embodied World Model for Future Video Anticipation** [paper](https://arxiv.org/abs/2410.15461)
+6. **Video language planning** [paper](https://arxiv.org/abs/2310.10625)
+7. **RoboDreamer: Learning Compositional World Models for Robot Imagination** [paper](https://arxiv.org/abs/2404.12377)
+8. **Learning to Act from Actionless Videos through Dense Correspondences** [paper](https://arxiv.org/abs/2310.08576)
+9. **Learning Universal Policies via Text-Guided Video Generation** [paper](https://arxiv.org/abs/2302.00111)
 
 ## Data Generation
 1. **DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories** [paper](https://arxiv.org/abs/2505.12705)
