@@ -1,6 +1,7 @@
 # Embodied-World-Models
 A curated list of awesome embodied world models resources.
 
+## Contributing
 Please feel free to send me [pull requests](https://github.com/rainbow979/Awesome-Embodied-World-Models/pulls) or email (szhoubr@connect.ust.hk / elegyhunter@gmail.com) to add links or talk about embodied world models.
 
 ## Contents
@@ -10,7 +11,7 @@ Please feel free to send me [pull requests](https://github.com/rainbow979/Awesom
 - [Data Generation](#data-generation)
 - [Policy Evaluation](#policy-evaluation)
 - [Benchmark](#benchmark)
-- [AR-WM](#AR-WM)
+- [AR-WM](#ar-wm)
 - [Adaptation](#adaptation)
 - [Other](#other)
 - [Awesome Video Models](#awesome-video-models)
@@ -32,11 +33,11 @@ Please feel free to send me [pull requests](https://github.com/rainbow979/Awesom
 9. **Learning to Act from Actionless Videos through Dense Correspondences** [paper](https://arxiv.org/abs/2310.08576)
 10. **Learning Universal Policies via Text-Guided Video Generation** [paper](https://arxiv.org/abs/2302.00111)
 
-## Generate Data
+## Data Generation
 1. **DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories** [paper](https://arxiv.org/abs/2505.12705)
 2. **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation** [paper](https://arxiv.org/abs/2409.16283)
 
-## Evaluation Policy
+## Policy Evaluation
 1. **EnerVerse-AC: Envisioning Embodied Environments with Action Condition** [paper](https://arxiv.org/abs/2505.09723)
 
 ## Benchmark
