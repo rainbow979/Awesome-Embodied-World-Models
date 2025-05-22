@@ -1,7 +1,6 @@
 # Embodied-World-Models
 A curated list of awesome embodied world models resources.
 
-## Contributing
 Please feel free to send me [pull requests](https://github.com/rainbow979/Awesome-Embodied-World-Models/pulls) or email (szhoubr@connect.ust.hk / elegyhunter@gmail.com) to add links or talk about embodied world models.
 
 ## Contents
